@@ -1,5 +1,3 @@
-![alt text]('https://www.collegemajors101.com/sites/default/files/styles/featured_program_-_images__600x400_/public/5_big_269.jpg?itok=jVU0evIB')
-
 - Data Analysis Automater for University of South Carolina Bio-Tech Research Team
 - Junior Developer for Bouier Analysis Group
 - Identidy and Access Management Intern at Agfirst Credit Union
