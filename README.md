@@ -1,4 +1,4 @@
-![alt text](https://media-exp1.licdn.com/dms/image/C4D03AQH-K8_9rHNzJQ/profile-displayphoto-shrink_200_200/0/1571678565535?e=1634774400&v=beta&t=LVNGEly0XoSbtktziCi5Iw198irY7jHt6cJOLDwenkUg)
+![alt text]('https://www.collegemajors101.com/sites/default/files/styles/featured_program_-_images__600x400_/public/5_big_269.jpg?itok=jVU0evIB')
 
 - Data Analysis Automater for University of South Carolina Bio-Tech Research Team
 - Junior Developer for Bouier Analysis Group
