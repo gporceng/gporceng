@@ -1,3 +1,5 @@
+![alt text](http://url/to/img.png)
+
 - Data Analysis Automater for University of South Carolina Bio-Tech Research Team
 - Junior Developer for Bouier Analysis Group
 - Identidy and Access Management Intern at Agfirst Credit Union
