@@ -1,5 +1,5 @@
 - Data Analysis Automater for University of South Carolina Bio-Tech Research Team
-- Junior Developer for Bouier Analysis Group
+- Junior Developer for Borealis Analysis Group
 - Identidy and Access Management Intern at Agfirst Credit Union
 
 - 👋 Howdy, I’m @gporceng a University of South Carolina Computer Engineering Major
