@@ -12,5 +12,5 @@
 - 💞️ I’m looking to collaborate on signal processing projects
 - 📫 How to reach me gregoryporce@gmail.com
 
-
+Most of all... Go Hornets!
 ![alt text](https://github.com/gporceng/gporceng/blob/main/letsgohornets.png?raw=true)
