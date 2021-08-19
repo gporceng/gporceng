@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/gporceng/gporceng/blob/main/letsgohornets.png?raw=true)
+
 
 <H1>GREGORY PORCENG</H1>
 - Data Analysis Automater for University of South Carolina Bio-Tech Research Team
@@ -12,3 +12,5 @@
 - 💞️ I’m looking to collaborate on signal processing projects
 - 📫 How to reach me gregoryporce@gmail.com
 
+
+![alt text](https://github.com/gporceng/gporceng/blob/main/letsgohornets.png?raw=true)
