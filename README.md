@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/gporceng/gporceng/blob/main/USC Bannarpng.png?raw=true)
+![alt text](https://github.com/gporceng/gporceng/blob/main/USC%20Bannarpng.png?raw=true)
 
 <H1>GREGORY PORCENG</H1>
 - Data Analysis Automater for University of South Carolina Bio-Tech Research Team
