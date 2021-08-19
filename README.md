@@ -1,4 +1,4 @@
-<H1>LETS GO HORNETS!</H1>
+<H1>GREGORY PORCENG</H1>
 
 - Data Analysis Automater for University of South Carolina Bio-Tech Research Team
 - Junior Developer for Borealis Global Advisory
