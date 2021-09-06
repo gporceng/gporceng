@@ -2,6 +2,7 @@
 ![alt text](https://github.com/gporceng/gporceng/blob/main/USC%20Bannarpng.png?raw=true)
 
 <H1>GREGORY PORCENG</H1>
+
 - Data Analysis Automater for University of South Carolina Bio-Tech Research Team
 
 - Junior Developer for Borealis Global Advisory
