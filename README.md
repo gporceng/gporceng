@@ -11,7 +11,7 @@
 
 - 👋 Howdy, I’m @gporceng a University of South Carolina Computer Engineering Major
 - 👀 I’m interested in automation
-- 🌱 I’m currently learning python app building
+- 🌱 I’m currently learning R programming
 - 💞️ I’m looking to collaborate on signal processing projects
 - 📫 How to reach me gregoryporce@gmail.com
 
