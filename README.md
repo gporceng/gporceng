@@ -9,7 +9,7 @@
 
 - Identidy and Access Management Intern at Agfirst Credit Union
 
-- 👋 Howdy, I’m @gporceng a University of South Carolina Computer Engineering Major
+- 👋 Howdy, I’m @gporceng a University of South Carolina alumni with bachelors degree in Computer Engineering
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning R programming
 - 💞️ I’m looking to collaborate on signal processing projects
