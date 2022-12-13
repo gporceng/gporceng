@@ -3,11 +3,11 @@
 
 <H1>GREGORY PORCENG</H1>
 
+- Itendity and Access Management Associate Developer at Agfirst Farm Credit Union
+
 - Data Analysis Automater for University of South Carolina Bio-Tech Research Team
 
 - Junior Developer for Borealis Global Advisory
-
-- Identidy and Access Management Intern at Agfirst Credit Union
 
 - 👋 Howdy, I’m @gporceng a University of South Carolina alumni with bachelors degree in Computer Engineering
 - 👀 I’m interested in automation
