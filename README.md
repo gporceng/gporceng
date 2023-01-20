@@ -1,13 +1,7 @@
 
 ![alt text](https://github.com/gporceng/gporceng/blob/main/USC%20Bannarpng.png?raw=true)
 
-<H1>GREGORY PORCENG</H1>
-
-- Identity and Access Management Associate Developer at Agfirst Farm Credit Union
-
-- Data Analysis Automater for University of South Carolina Bio-Tech Research Team
-
-- Junior Developer for Borealis Global Advisory
+<H1>Greg Porce</H1>
 
 - 👋 Howdy, I’m @gporceng a University of South Carolina alumni with bachelors degree in Computer Engineering
 - 👀 I’m interested in automation
