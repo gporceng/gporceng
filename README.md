@@ -5,7 +5,7 @@
 
 - 👋 Howdy, I’m @gporceng a University of South Carolina alumni with bachelors degree in Computer Engineering and minor in Business and Administration
 - 👀 I’m interested in automation
-- 🌱 I’m currently learning the DASH library for making websites in pure Python
+- 🌱 I’m currently learning the DASH library for making data visualization websites in pure Python
 - 💞️ I’m looking to collaborate on signal processing projects
 - 📫 How to reach me gregoryporce@gmail.com
 
