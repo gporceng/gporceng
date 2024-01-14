@@ -11,8 +11,8 @@
 
 <H2>2024 GOALS!</H2>
 
-- Create a chrome extension
-- Create a data visualization site
+- ~~Create a chrome extension~~ *PUBLISH* a chrome extension
+- ~~Create a data visualization site~~
 - Create a web scraping api
 - Create a fantasy sports site
 - 365 Commits in 2024
